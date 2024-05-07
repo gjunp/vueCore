@@ -34,7 +34,7 @@
   "dependencies": {
     "@babel/parser": "^7.20.15",
     "@vue/compiler-core": "3.3.4",
-    "@vue/compiler-dom": "3.3.4",
+    "@vue/compiler-dom": "3.4.22",
     "@vue/compiler-ssr": "3.3.4",
     "@vue/reactivity-transform": "3.3.4",
     "@vue/shared": "3.3.4",
